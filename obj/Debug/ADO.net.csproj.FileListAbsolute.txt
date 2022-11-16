@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ADO.net\ADO.net\bin\Debug\ADO.net.exe.config
+C:\Users\Dell\source\repos\ADO.net\ADO.net\bin\Debug\ADO.net.exe
+C:\Users\Dell\source\repos\ADO.net\ADO.net\bin\Debug\ADO.net.pdb
+C:\Users\Dell\source\repos\ADO.net\ADO.net\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\ADO.net\ADO.net\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.csproj.CopyComplete
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.exe
+C:\Users\Dell\source\repos\ADO.net\ADO.net\obj\Debug\ADO.net.pdb
